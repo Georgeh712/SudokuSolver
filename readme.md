@@ -1,4 +1,4 @@
-# Computer Science - Assignment 1 Sudoku Solver
+# Sudoku Solver
 
 ## Introduction
 
